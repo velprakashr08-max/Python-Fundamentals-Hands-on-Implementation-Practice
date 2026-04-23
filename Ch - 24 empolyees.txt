@@ -1,0 +1,5 @@
+Jeff = Salesman
+Oscar = Salesman
+Drake = Receptionist
+Jacob = Manager
+Lamar = Accountant
